@@ -1,17 +1,17 @@
 # Willian Girhad
-Itatiba, SP - Brazil| willianmonts@gmail.com | +55 (11) 98286-6186
+Itatiba, SP - Brazil | willianmonts@gmail.com | +55 (11) 98286-6186
 
 ## Details
 
 ### Overview
-A Full stack Developer having 8 years of working experience,  Dynamic and detail-oriented Software Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently.
+A Full-stack Developer having 8 years of working experience, a dynamic and detail-oriented Software Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently.
 Enjoy building powerful web applications, learning new technologies, and improving overall knowledge. A dedicated and persistent person, with clear objectives to be achieved in the professional field. A team player but do not shy away from working as an individual contributor.
 
 ## Interests
-PHP, Laravel, Postgres, Redis, Ruby, Python, Elixir, Javascript, SOLID, Clean Code, Software Architecture and algorithms in general
+PHP, Laravel, Postgres, Redis, Ruby, Python, Elixir, Javascript, SOLID, Clean Code, Software Architecture, and algorithms in general
 
 ### Other skills
-Flask, Rails, Delphi, Java, Apache, NGINX, APIs (Rest and Soap), microservices, test-driven development, bash, linux, git and GitHub
+Flask, Rails, Delphi, Java, Apache, NGINX, APIs (Rest and Soap), microservices, test-driven development, bash, Linux, git, and GitHub
 
 ### Soft-skills
 Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
@@ -21,9 +21,9 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 **Senior Software Developer**, Feb. 2020 - Present
 - Reduced total billing processing time down by 95%, with dynamic allocation of threads with horizontal scaling
 - Switched all cronjobs to work with messaging and queues with Redis, reducing database load due to polling while improving responsiveness to the end-user
-- Implemented 4G, NB-IOT and eSIM provisioning support on Saitro GSIM Platform for TIM Brasil
-- Developed most of TIM Brasil and FCA's wifi powered cars project regarding to SIM and Cars provisioning lifecycle
-- Constantly improved the overall user experience with caching, indexation and techniques from the back-end that resulted on a snappier UX
+- Implemented 4G, NB-IoT, and eSIM provisioning support on Saitro GSIM Platform for TIM Brasil
+- Developed most of TIM Brasil and FCA's wifi powered cars project regarding SIM and Cars provisioning lifecycle
+- Constantly improved the overall user experience with caching, indexation, and techniques from the back-end that resulted in a snappier UX
 - Mentored junior developers
 
 **Sofware Developer**, Nov. 2017 - Feb. 2020
@@ -32,14 +32,14 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 - These reports would dynamically create user interfaces to reach them with proper access controls and logs
 - Added SIM Cards Service Maintenance routines
 - Added Semantic Versioning on all applications
-- Introduced a environment-oriented branching method on our git repositories (similar to Gitlab Flow)
+- Introduced an environment-oriented branching method on our git repositories (similar to Gitlab Flow)
 - Implemented 3G provisioning support on Saitro GSIM Platform for Porto Conecta
 
 ### Quatro14 Tecnologia - Itatiba, SP
 **Software Developer**, Jun. 2015 - Nov. 2017
 - Developed an Electronic Tax Invoice (NF-e) issuer using NFePHP
 - Created an application that allowed custom reports to be created for each client
-- Created an self-updater for our applications (PHP and Delphi)
+- Created a self-updater for our applications (PHP and Delphi)
 - Created a software that allowed our clients to manage all Tax Documents issued against them
 - Developed a DBF reader and writer in pure PHP to deal with legacy databases
 - Developed a Point-of-sale software for small shops in PHP
@@ -47,7 +47,7 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 **Junior Software Developer**, Mar. 2014 - Jun. 2015
 - Rewritten the application that re-counted the stock inventory. The new version executed 500% faster
 - Added Bootstrap + AngularJS to the web platform allowing richer UIs to be created
-- Convinced my work mates to start using a Code Versioning System
+- Convinced my workmates to start using a Code Versioning System
 - Developed many, many CRUDs
 
 ### Freelance
@@ -83,4 +83,4 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 
 ## Education
 ### Centro Paulo Souza, 2007
-Technician, Software development (Delphi7, VB6, C, JS, ASP and ActionScript)
+Technician, Software development (Delphi7, VB6, C, JS, ASP, and ActionScript)
