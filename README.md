@@ -65,7 +65,7 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 - Software for Delivery/Point-of-sale shops
 
 ### Web Sites
-- [Açaí dos Tomé](https://www.acaidostome.com.br/) - A website for a local açaí shop [(Repo)](https://github.com/wgirhad/acaidostome-website)
+- [Açaí dos Tomé](https://www.girhad.com.br/sites/acaidostome/) - A website for a local açaí shop [(Repo)](https://github.com/wgirhad/acaidostome-website)
 - [Bomserv Bombas](https://wgirhad.github.io/bomserv-website/) - A website for a hydraulic pump retailer [(Repo)](https://github.com/wgirhad/bomserv-website)
 - [Ocus Print](https://wgirhad.github.io/ocusprint-website/) - A website for a transfer retailer [(Repo)](https://github.com/wgirhad/ocusprint-website)
 - [Edificar](https://wgirhad.github.io/edificar-website/) - A website for a building company [(Repo)](https://github.com/wgirhad/edificar-website)
