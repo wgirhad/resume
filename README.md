@@ -18,7 +18,7 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 
 ## Work experience
 ### Saitro - Itatiba, SP
-**Senior Software Developer**, Feb. 2020 - Present
+**Senior Software Developer**, Feb. 2020 - Jul. 2022
 - Reduced total billing processing time down by 95%, with dynamic allocation of threads with horizontal scaling
 - Switched all cronjobs to work with messaging and queues with Redis, reducing database load due to polling while improving responsiveness to the end-user
 - Implemented 4G, NB-IoT, and eSIM provisioning support on Saitro GSIM Platform for TIM Brasil
