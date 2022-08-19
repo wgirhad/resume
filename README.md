@@ -17,6 +17,10 @@ Flask, Rails, Delphi, Java, Apache, NGINX, APIs (Rest and Soap), microservices, 
 Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 
 ## Work experience
+### Grafeno - São Paulo, SP
+**Senior Software Developer**, Aug. 2022 - present
+- Just started out, wish me good luck 😉
+
 ### Saitro - Itatiba, SP
 **Senior Software Developer**, Feb. 2020 - Jul. 2022
 - Reduced total billing processing time down by 95%, with dynamic allocation of threads with horizontal scaling
