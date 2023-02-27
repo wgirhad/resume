@@ -1,5 +1,5 @@
 # Willian Girhad
-Itatiba, SP - Brazil | willianmonts@gmail.com | +55 (11) 98286-6186
+Catanduva, SP - Brazil | willianmonts@gmail.com | +55 (11) 98286-6186
 
 ## Details
 
@@ -64,9 +64,13 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 
 ## Projects
 
-### Sysweb
+### Acai
 **Sole Developer/Author**, 2015 - Present
 - Software for Delivery/Point-of-sale shops
+
+### [geo-squeeze](https://github.com/wgirhad/geo-squeeze)
+**Author**, 2022 - Present
+- Library to compress [LineStrings](https://geojson.org/geojson-spec.html#id3) (depends on geoPHP)
 
 ### Web Sites
 - [Açaí dos Tomé](https://www.girhad.com.br/sites/acaidostome/) - A website for a local açaí shop [(Repo)](https://github.com/wgirhad/acaidostome-website)
@@ -76,7 +80,7 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 
 ### Simple apps
 - [Mr. Mind](https://www.girhad.com.br/games/mrmind/) - A simple mastermind-like game [(Repo)](https://github.com/wgirhad/mrmind)
-- Wordle Solver - A wordle-like games solver written in Ruby [(Repo)](https://github.com/wgirhad/wordle-solver)
+- Word Game Solver - A word games solver written in Ruby [(Repo)](https://github.com/wgirhad/word_game_solver)
 
 ### Books read
 - [Head First Java](https://isbnsearch.org/isbn/9780596009205) - This made me decide becoming a dev - read in 2013
