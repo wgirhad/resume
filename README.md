@@ -83,11 +83,14 @@ Leadership, Teamwork, Problem-solver, Creative, Resourceful, Open to criticism
 - Word Game Solver - A word games solver written in Ruby [(Repo)](https://github.com/wgirhad/word_game_solver)
 
 ### Books read
-- [Head First Java](https://isbnsearch.org/isbn/9780596009205) - This made me decide becoming a dev - read in 2013
-- [Sun Certified - Java Programmer](https://isbnsearch.org/isbn/9788573939224) - Another book on Java - read in 2013
-- [Design e Desenvolvimento de Jogos](https://isbnsearch.org/isbn/9789727227624) - Book about game development - read in 2015
-- [Clean Code](https://isbnsearch.org/isbn/9780132350884) - A classic by Uncle Bob - read in 2021
-- [Clean Architecture](https://isbnsearch.org/isbn/9780134494166) - Another must read - read in 2022
+- [Clean Code](https://isbnsearch.org/isbn/9780132350884)
+- [Sun Certified - Java Programmer](https://isbnsearch.org/isbn/9788573939224)
+- [Design e Desenvolvimento de Jogos](https://isbnsearch.org/isbn/9789727227624)
+- [Head First Java](https://isbnsearch.org/isbn/9780596009205) - This made me decide becoming a dev
+
+### Currently reading
+- [Fundamentals of Software Architecture: An Engineering Approach](https://isbnsearch.org/isbn/9781492043409)
+- [Clean Architecture](https://isbnsearch.org/isbn/9780134494166)
 
 ## Education
 ### Centro Paulo Souza, 2007
